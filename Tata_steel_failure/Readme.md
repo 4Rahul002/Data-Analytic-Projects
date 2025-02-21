@@ -1,4 +1,4 @@
-### **Exploratory Data Analysis (EDA) Summary**  
+# **Exploratory Data Analysis (EDA) Summary**  
 
 #### **1. Introduction**  
 Exploratory Data Analysis (EDA) is a fundamental step in understanding the dataset before applying predictive models. This project focuses on **predicting machine failures** based on operational parameters collected from industrial machines. The dataset consists of **136,429 records** with **14 features**, including various sensor readings, machine failure types, and product specifications.
