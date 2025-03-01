@@ -10,15 +10,15 @@ titles.csv contains **9,871** records with details about movies and TV shows, in
 credits.csv contains **124,235** records related to actors, characters, and roles in various movies and shows.
 The primary objectives of this analysis include:
 
-####**Understanding content trends** – Analyzing genre distribution, popular countries, and content ratings.
+#### **Understanding content trends** – Analyzing genre distribution, popular countries, and content ratings.
 
-####**Assessing content performance** – Identifying high-rated movies and shows based on IMDb and TMDB scores.
+#### **Assessing content performance** – Identifying high-rated movies and shows based on IMDb and TMDB scores.
 
-####**Detecting gaps in content** – Finding missing values in IMDb/TMDB ratings and age certifications.
+#### **Detecting gaps in content** – Finding missing values in IMDb/TMDB ratings and age certifications.
 
-####**Outlier analysis**– Identifying anomalies in runtime, ratings, and popularity.
+#### **Outlier analysis**– Identifying anomalies in runtime, ratings, and popularity.
 
-####**Visualizing key patterns**– Creating graphs for effective data representation.
+#### **Visualizing key patterns**– Creating graphs for effective data representation.
 
 
 --------
@@ -49,7 +49,7 @@ Amazon Prime Video aims to enhance content recommendations and acquisitions by l
 **Evaluating actor impact** on movie/show success, helping in better casting decisions.
 
 -------
-####We have merged titles and credits dataset
+#### We have merged titles and credits dataset
 
 **We discovered that there are lot of missing values and Duplicate values**
 
