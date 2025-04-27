@@ -3,7 +3,7 @@
 Welcome to my exploratory data analysis (EDA) project on the Ford GoBike System Data.
 This project involves cleaning, visualizing, and drawing insights from real-world bike-sharing trip data from San Francisco Bay Area.
 
-## **Project Objective **
+## **Project Objective**
 
 Understand bike usage patterns by subscribers and customers.
 
