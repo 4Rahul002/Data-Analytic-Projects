@@ -3,20 +3,8 @@
 Welcome to my exploratory data analysis (EDA) project on the Ford GoBike System Data.
 This project involves cleaning, visualizing, and drawing insights from real-world bike-sharing trip data from San Francisco Bay Area.
 
-📂 Project Structure
-kotlin
-Copy
-Edit
-.
-├── data/
-│   └── 201801-fordgobike-tripdata.csv
-├── notebooks/
-│   └── FordGoBike_EDA.ipynb
-├── images/
-│   └── (Saved plots & visuals)
-├── README.md
-└── requirements.txt
-📈 Project Objective
+## **Project Objective **
+
 Understand bike usage patterns by subscribers and customers.
 
 Analyze trip durations across hours, days, and seasons.
@@ -25,7 +13,7 @@ Identify demographic trends among riders.
 
 Provide operational insights for better fleet and station management.
 
-🧹 Data Cleaning
+## **🧹 Data Cleaning **
 Converted start_time and end_time to datetime format.
 
 Created new features like hour, day, month, season, and age.
@@ -67,7 +55,7 @@ Correlation heatmap of numerical variables
 
 Pairplot of important trip features colored by user type
 
-📋 Key Findings
+## **📋 Key Findings **
 Average trip duration is around 14.5 minutes.
 
 Subscribers use bikes mainly for commuting (peak in mornings and evenings).
