@@ -13,7 +13,7 @@ Identify demographic trends among riders.
 
 Provide operational insights for better fleet and station management.
 
-## **🧹 Data Cleaning **
+## **🧹 Data Cleaning**
 Converted start_time and end_time to datetime format.
 
 Created new features like hour, day, month, season, and age.
@@ -55,7 +55,7 @@ Correlation heatmap of numerical variables
 
 Pairplot of important trip features colored by user type
 
-## **📋 Key Findings **
+## **📋 Key Findings**
 Average trip duration is around 14.5 minutes.
 
 Subscribers use bikes mainly for commuting (peak in mornings and evenings).
